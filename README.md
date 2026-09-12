@@ -18,4 +18,8 @@ This project demonstrates a complete ETL (Extract, Transform, Load) pipeline tai
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/futbol_veri_analitigi.git](https://github.com/KULLANICI_ADIN/futbol_veri_analitigi.git)
+git clone https://github.com/190347/futbol_veri_analitigi.git
+## 📊 Outputs
+
+<img width="1440" height="864" alt="heatmap" src="https://github.com/user-attachments/assets/55f8a05c-9292-4805-b9b8-f97f0ae0b6e7" />
+
